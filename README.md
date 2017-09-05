@@ -1,16 +1,12 @@
 # AgileTimes
 
-Welcome to the Sample app  [Building Beautiful Angular Apps with PrimeNG](https://app.pluralsight.com/courses/angular-apps-prime-ng).
+Welcome to the Sample app  [ Angular Apps with PrimeNG]
  
 
 I'll keep this page updated with breaking changes .
 
-## Take it for a spin
+## Contact
 
-I deploy the latest version of the application directly to github pages. 
-
- 
-## Errata & Updates
- 
+-+966507612933 
 - elsawy269@gmail.com
 
